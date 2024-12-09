@@ -38,4 +38,4 @@ This project involves analyzing an e-commerce dataset for **Target** using **SQL
 ### **📂 Files**
 
 * `Target_SQL.pdf`: Full project report with SQL queries and findings.
-* `README.md`: Project summary.
+* `README.md`: Project summary
